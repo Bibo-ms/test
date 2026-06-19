@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+        
+		<title>Test Page</title>
+		<meta name="description" content="Base HTML template" />
+	</head>
+	<body>
+		<main>
+			<h1>Salut</h1>
+			<p>This is a base HTML template.</p>
+            <p>ca va </p>
+		</main>
+	</body>
+
+    <style>
+        h1 {
+            color: red;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</html>
